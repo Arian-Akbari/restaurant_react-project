@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fd95778-364b-4e89-afbb-48a4a359d743" name="Changes" comment="working on the navbar">
+    <list default="true" id="8fd95778-364b-4e89-afbb-48a4a359d743" name="Changes" comment="finished the navbar and made it good for all devices">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SubHeading/SubHeading.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SubHeading/SubHeading.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/Header/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/Header/Header.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
       <updated>1697570915982</updated>
       <workItem from="1697570916990" duration="4334000" />
       <workItem from="1697575481109" duration="425000" />
-      <workItem from="1697609007880" duration="1235000" />
+      <workItem from="1697609007880" duration="2625000" />
     </task>
     <task id="LOCAL-00001" summary="added the starting src file of the project">
       <option name="closed" value="true" />
@@ -124,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697575893232</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="finished the navbar and made it good for all devices">
+      <option name="closed" value="true" />
+      <created>1697610710278</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697610710278</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +143,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added the starting src file of the project" />
     <MESSAGE value="working on the navbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="working on the navbar" />
+    <MESSAGE value="finished the navbar and made it good for all devices" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished the navbar and made it good for all devices" />
   </component>
 </project>
