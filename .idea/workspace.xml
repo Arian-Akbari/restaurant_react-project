@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fd95778-364b-4e89-afbb-48a4a359d743" name="Changes" comment="finished the chef part">
+    <list default="true" id="8fd95778-364b-4e89-afbb-48a4a359d743" name="Changes" comment="added the intro">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/Intro/Intro.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/Intro/Intro.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/Intro/Intro.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/Intro/Intro.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/Laurels/Laurels.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/Laurels/Laurels.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/Laurels/Laurels.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/Laurels/Laurels.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,8 @@
       <workItem from="1697570916990" duration="4334000" />
       <workItem from="1697575481109" duration="425000" />
       <workItem from="1697609007880" duration="7251000" />
-      <workItem from="1697648639979" duration="5203000" />
+      <workItem from="1697648639979" duration="5863000" />
+      <workItem from="1697656938332" duration="970000" />
     </task>
     <task id="LOCAL-00001" summary="added the starting src file of the project">
       <option name="closed" value="true" />
@@ -197,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697654954110</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="added the intro">
+      <option name="closed" value="true" />
+      <created>1697656297431</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1697656297431</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +222,7 @@
     <MESSAGE value="working on the specialMenu" />
     <MESSAGE value="finished the special menu" />
     <MESSAGE value="finished the chef part" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished the chef part" />
+    <MESSAGE value="added the intro" />
+    <option name="LAST_COMMIT_MESSAGE" value="added the intro" />
   </component>
 </project>
