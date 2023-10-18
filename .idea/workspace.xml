@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fd95778-364b-4e89-afbb-48a4a359d743" name="Changes" comment="working on the specialMenu">
+    <list default="true" id="8fd95778-364b-4e89-afbb-48a4a359d743" name="Changes" comment="finished the special menu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Menuitem/MenuItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Menuitem/MenuItem.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Menuitem/MenuItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Menuitem/MenuItem.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/Menu/SpecialMenu.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/Menu/SpecialMenu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/Menu/SpecialMenu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/Menu/SpecialMenu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/Chef/Chef.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/Chef/Chef.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/Chef/Chef.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/Chef/Chef.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
       <workItem from="1697570916990" duration="4334000" />
       <workItem from="1697575481109" duration="425000" />
       <workItem from="1697609007880" duration="7251000" />
-      <workItem from="1697648639979" duration="2947000" />
+      <workItem from="1697648639979" duration="3869000" />
     </task>
     <task id="LOCAL-00001" summary="added the starting src file of the project">
       <option name="closed" value="true" />
@@ -183,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697648648859</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="finished the special menu">
+      <option name="closed" value="true" />
+      <created>1697653906384</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1697653906384</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +203,7 @@
     <MESSAGE value="finished the header section" />
     <MESSAGE value="finished the about us section" />
     <MESSAGE value="working on the specialMenu" />
-    <option name="LAST_COMMIT_MESSAGE" value="working on the specialMenu" />
+    <MESSAGE value="finished the special menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished the special menu" />
   </component>
 </project>
